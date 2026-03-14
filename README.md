@@ -1,9 +1,18 @@
 # Sachin🚀 Personal Portfolio Website
 
-<img width="1539" height="750" alt="Image" src="https://github.com/user-attachments/assets/a3a18fae-e0c5-479c-b3ad-f9c2aade3e0e" />
+<img
+src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUydXk1MmsweHNwdnc0bHNnOHBlNWlvcHl5cHVxMjhwY3FmMmJwdmhidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="khushi">
+</div>
 
 A modern, sleek, and fully responsive personal portfolio website built to showcase my skills, projects, and experience as a Front-End Developer.  
 Designed with a dark theme, smooth animations, and a clean user interface to provide a professional and interactive experience.
+
+
+
+
+<img width="1539" height="750" alt="Image" src="https://github.com/user-attachments/assets/4e3db2db-4d7d-49c4-bcf4-66588064977e" />
+
+
 
 ---
 
